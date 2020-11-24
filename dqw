@@ -1,0 +1,17 @@
+[33mcommit b4371fd090a9169efc29dda087f0e4157d2a3495[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: hootre <zxv7295@naver.com>
+Date:   Tue Nov 24 11:17:31 2020 +0900
+
+    first commit
+
+[33mcommit 6a771201307632f677cfff25df9d51c48a380774[m
+Author: hootre <zxv7295@naver.com>
+Date:   Tue Nov 24 10:35:58 2020 +0900
+
+    https://github.com/hootre/movie_app_study.git
+
+[33mcommit a740c15ce0ad03b5c37aa650be23e4fce9515943[m
+Author: hootre <zxv7295@naver.com>
+Date:   Tue Nov 24 10:22:42 2020 +0900
+
+    Initialize project using Create React App
